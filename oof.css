@@ -1,0 +1,32 @@
+img {
+  width:10px;
+  height:10px;
+    border-radius:50%;
+}
+body {
+  text-align:center;
+  background: linear-gradient(#E1BEE7 0%,#90CAF9 100%);
+}
+.link {
+    align-items:center;
+        
+}
+.menu{
+    list-style: none;
+ font-family: cursive;
+    float:right;
+        top;10px;
+    right: 30px;
+    cursor: pointer;
+    color: cornflowerblue;
+}
+#name{
+    font-family: 'Bona Nova', serif;
+}
+.link:hover{
+    background-color: black;
+}
+img {
+    width: 450px;
+    height:450px;
+}
